@@ -7,7 +7,6 @@ Web Developer
 I've been learning and creating web applications using ReactJS and JavaScript for over a year. I love building daily problem-solving applications that I can see myself and my friends and family using.
 
 * 🌍  I'm based in Gold Coast, Australia
-* 🖥️  See my portfolio at [https://an-bui-nguyen.github.io/personal-webpage/](http://https://an-bui-nguyen.github.io/personal-webpage/)
 * ✉️  You can contact me at [an.bui2@griffithuni.edu.au](mailto:an.bui2@griffithuni.edu.au)
 * 🚀  I'm currently working on [Tracky](http://https://github.com/an-bui-nguyen/tracky)
 * 🧠  I'm learning Next.js
